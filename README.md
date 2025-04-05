@@ -56,14 +56,14 @@ Desarrolla una aplicación de línea de comandos (CLI) que procese un archivo CS
 5. **README del Proyecto:**  
    Incluye un archivo `README.md` con la siguiente estructura:
 
-   - **Introducción:** Breve descripción del reto y su propósito.
+   - **Introducción:** Breve descripción del reto y su propósito.\n
    Calculo de un Estado de Cuenta.
-   - **Instrucciones de Ejecución:** Cómo instalar dependencias y ejecutar la aplicación.
+   - **Instrucciones de Ejecución:** Cómo instalar dependencias y ejecutar la aplicación.\n
    Para el caso del archivo en Javascript (nodejs), es necesario ejecutar dentro de la carpeta: 
-      npm install
-   - **Enfoque y Solución:** Lógica implementada y decisiones de diseño.
-   Para el caso de python utilice el metodo *reduce* y lambda
-   Para el caso de javascript utilice programación funcional y los metodos reduce y map.
+      npm install\n
+   - **Enfoque y Solución:** Lógica implementada y decisiones de diseño.\n
+   Para el caso de python utilice el metodo *reduce* y lambda.\n
+   Para el caso de javascript utilice programación funcional y los metodos reduce y map.\n
    - **Estructura del Proyecto:** Archivos y carpetas principales.
    
 
